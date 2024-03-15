@@ -1,6 +1,8 @@
 # PR_SNAP_BLURB
 This MD should help with PR's for snaps that I want to share upstream.
 
+=======================================================================
+
 Firstly, thanks for creating this application! 
 
 I have created a working [snap](https://snapcraft.io/about) that may be [published](https://snapcraft.io/about/publicise) on the snap [store](https://snapcraft.io/store). 
